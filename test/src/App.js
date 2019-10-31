@@ -6,7 +6,8 @@ import Dashboard from './components/Dashboard';
 function App() {
   return (
     
-    <div>    
+    <div> 
+      <h1>At Bat </h1>   
     <Dashboard/>
     </div>  
   );
